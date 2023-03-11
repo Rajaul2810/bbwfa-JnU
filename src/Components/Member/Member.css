@@ -1,0 +1,14 @@
+.member{
+    border-left: 5px solid #ff0f7b;
+}
+.member2{
+    border-left: 5px solid #3c096c;
+}
+.member3{
+    border-left: 5px solid #fe7f2d;
+}
+.hira{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}

@@ -1,0 +1,19 @@
+.nav{
+    color: black !important;
+    text-align: center;
+}
+.nav:hover{
+    color:#ff0f7b !important;
+    transition: 0.1 ease !important;
+}
+.login{
+    background-image: linear-gradient(90deg, #ff0f7b , #f89b29);
+    color: white !important;
+    border-radius: 6px;
+    text-align: center;
+}
+.login:hover{
+    transition: 0.2 ease-in !important;
+    color: gainsboro !important;
+   
+}

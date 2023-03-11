@@ -1,0 +1,26 @@
+
+
+.foot{
+    text-decoration: none;
+    color: #6c757d !important;
+    margin-bottom: 0px !important;
+}
+.foot:hover{
+    color: white !important;
+}
+
+.icon{
+    background-color: white;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px ;
+}
+.icon:hover{
+    background-color: rgba(237, 230, 230, 0.884);
+    color: #ff1b6b;
+    cursor: pointer;
+}
